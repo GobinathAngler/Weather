@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19461" systemVersion="20G165" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="BookMarks" representedClassName="BookMarks" syncable="YES" codeGenerationType="class">
+        <attribute name="address" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="NewBookMarks" representedClassName="NewBookMarks" syncable="YES" codeGenerationType="class">
+        <attribute name="cityAddress" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="BookMarks" positionX="-63" positionY="-18" width="128" height="44"/>
+        <element name="NewBookMarks" positionX="-54" positionY="0" width="128" height="44"/>
+    </elements>
+</model>
